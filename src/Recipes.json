@@ -1,0 +1,134 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Bolognese",
+      "author": "John Doe",
+      "image": "https://www.freefromheaven.com/wp-content/uploads/2016/07/Knorr-Spaghetti-Bolognese-2.png",
+      "ingredients": [
+        "Spaghetti",
+        "Ground Beef",
+        "Tomato Sauce",
+        "Onion",
+        "Garlic"
+      ],
+      "instructions": "Cook spaghetti according to package instructions. In a separate pan, sauté onion and garlic, then add ground beef and cook until browned. Add tomato sauce and simmer for 15 minutes. Serve sauce over spaghetti."
+    },
+    {
+      "id": 2,
+      "name": "Chicken Curry",
+      "author": "Jane Smith",
+      "image": "https://www.shutterstock.com/image-photo/tasty-butter-chicken-curry-dish-600nw-2360173335.jpg",
+      "ingredients": [
+        "Chicken",
+        "Curry Powder",
+        "Coconut Milk",
+        "Onion",
+        "Garlic"
+      ],
+      "instructions": "In a pan, sauté onion and garlic, then add chicken and cook until browned. Add curry powder and cook for 2 minutes. Add coconut milk and simmer for 20 minutes. Serve with rice."
+    },
+    {
+      "id": 3,
+      "name": "Vegetable Stir-fry",
+      "author": "Alice Johnson",
+      "image": "https://t3.ftcdn.net/jpg/01/04/13/56/360_F_104135636_bH0l3ScKrNedCikbIsEgR49I6phhpzuH.jpg",
+      "ingredients": [
+        "Mixed Vegetables",
+        "Soy Sauce",
+        "Garlic",
+        "Ginger",
+        "Sesame Oil"
+      ],
+      "instructions": "Heat sesame oil in a pan, add garlic and ginger, and sauté for 2 minutes. Add mixed vegetables and stir-fry for 5-7 minutes. Add soy sauce and cook for an additional 2 minutes. Serve with rice or noodles."
+    },
+    {
+      "id": 4,
+      "name": "Beef Tacos",
+      "author": "Carlos Gomez",
+      "image": "https://www.shutterstock.com/image-photo/ground-beef-tacos-shredded-cheddar-260nw-2039876258.jpg",
+      "ingredients": [
+        "Ground Beef",
+        "Taco Shells",
+        "Lettuce",
+        "Cheese",
+        "Tomato",
+        "Sour Cream"
+      ],
+      "instructions": "Cook ground beef in a pan until browned. Fill taco shells with beef and top with lettuce, cheese, tomato, and sour cream."
+    },
+    {
+      "id": 5,
+      "name": "Margherita Pizza",
+      "author": "Mario Rossi",
+      "image": "https://cdn.pixabay.com/photo/2023/11/22/08/22/pizza-8404974_640.jpg",
+      "ingredients": [
+        "Pizza Dough",
+        "Tomato Sauce",
+        "Mozzarella Cheese",
+        "Basil",
+        "Olive Oil"
+      ],
+      "instructions": "Preheat oven to 475°F (245°C). Spread tomato sauce over pizza dough, top with mozzarella cheese and basil leaves, and drizzle with olive oil. Bake for 10-12 minutes."
+    },
+    {
+      "id": 6,
+      "name": "Caesar Salad",
+      "author": "Emily Clark",
+      "image": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "ingredients": [
+        "Romaine Lettuce",
+        "Caesar Dressing",
+        "Croutons",
+        "Parmesan Cheese",
+        "Grilled Chicken"
+      ],
+      "instructions": "Toss romaine lettuce with Caesar dressing, add croutons and grilled chicken, and top with Parmesan cheese."
+    },
+    {
+      "id": 7,
+      "name": "Pancakes",
+      "author": "Sarah Lee",
+      "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+      "ingredients": [
+        "Flour",
+        "Eggs",
+        "Milk",
+        "Sugar",
+        "Baking Powder",
+        "Butter"
+      ],
+      "instructions": "Mix flour, eggs, milk, sugar, and baking powder into a batter. Heat butter in a pan, pour batter to form pancakes, and cook until golden brown on both sides. Serve with maple syrup."
+    },
+    {
+      "id": 8,
+      "name": "Beef Burger",
+      "author": "Mike Thompson",
+      "image": "https://www.shutterstock.com/image-photo/classic-hamburger-stock-photo-isolated-600nw-2282033179.jpg",
+      "ingredients": [
+        "Ground Beef",
+        "Burger Buns",
+        "Lettuce",
+        "Tomato",
+        "Cheese",
+        "Onion",
+        "Pickles"
+      ],
+      "instructions": "Form ground beef into patties and cook on a grill until desired doneness. Place patty on a bun and top with lettuce, tomato, cheese, onion, and pickles."
+    },
+    {
+      "id": "9507",
+      "name": "Chicken Sandwich",
+      "author": "Add Recipe test",
+      "image": "https://www.shutterstock.com/image-photo/four-sandwiches-on-board-600nw-365116274.jpg",
+      "ingredients": [
+        "Chicken",
+        "Bread",
+        "Veggies",
+        "Mayo",
+        "Cheese"
+      ],
+      "instructions": "Toast the bread and add your favourite veggies in the middle of toasted bread. Add sauce and mayo to enhance the taste. "
+    }
+  ]
+}
